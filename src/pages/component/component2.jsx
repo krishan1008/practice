@@ -5,7 +5,7 @@ const UserData = ()=>{
 <View>
 
 
-    <Text style={{fontSize:40}}> user data</Text>
+    <Text style={{fontSize:20}}> user data</Text>
 </View>
 
     )
