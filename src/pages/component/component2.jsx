@@ -5,6 +5,16 @@ const UserData = ()=>{
 <View>
 
 
+
+
+
+
+
+
+
+    
+
+
     <Text style={{fontSize:40}}> user data</Text>
 </View>
 
